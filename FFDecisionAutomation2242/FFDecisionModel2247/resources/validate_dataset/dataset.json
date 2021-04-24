@@ -1,0 +1,8 @@
+{
+  "name": "desBois",
+  "weather": {
+    "rain forecast": 0,
+    "temperature": "cold",
+    "storm alert": true
+  }
+}
